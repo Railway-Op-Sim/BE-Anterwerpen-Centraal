@@ -1,5 +1,5 @@
-name = "NMBS/SNCB Antwerpen Centraal"
-alternate_name = "Seinhuis Antwerpen"
+name = "Simulation of Antwerpen Central south"
+display_name = "Antwerpen Centraal"
 country_code = "BE"
 rly_file = "Antwerpen_Centraal.rly"
 ttb_files = ["Antwerpen_Centraal_2021.ttb"]
