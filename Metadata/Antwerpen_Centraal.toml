@@ -1,4 +1,5 @@
 name = "Simulation of Antwerpen Central south"
+description = "Simulation covering the lines from Antwerpen Centraal to St. Katelijne-Waver/Lier"
 display_name = "Antwerpen Centraal"
 country_code = "BE"
 rly_file = "Antwerpen_Centraal.rly"
